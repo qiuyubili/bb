@@ -4,3 +4,4 @@ From branch a.
 This is branch.
 This a test.
 merge --no-ff.
+Inserting .....
