@@ -6,3 +6,4 @@ This a test.
 merge --no-ff.
 Inserting .....
 github.
+from Test.
